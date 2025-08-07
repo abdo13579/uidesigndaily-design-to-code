@@ -1,0 +1,20 @@
+/* global start */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* :root {
+    --heading-font: 'Merriweather', Arial, Helvetica, sans-serif;
+    --paragraph-color: 'Inter', Arial, Helvetica, sans-serif;
+} */
+
+h2 {
+    font-family: 'Merriweather', Arial, Helvetica, sans-serif;;
+}
+
+p {
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
+}
+/* global end */
